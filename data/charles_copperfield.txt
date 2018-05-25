@@ -1,0 +1,6 @@
+Recarment  = requirement
+
+level 400 sem 1
+=================
+Afrifra = Afrifa
+Appry  = Apply 
